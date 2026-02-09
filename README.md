@@ -38,5 +38,3 @@ The following models were tested for accuracy, AUC-ROC, and Average Precision:
 
 The models were evaluated on a test set with 20% of the data (stratified to maintain the class balance).
 
-```
-
